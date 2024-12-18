@@ -1,0 +1,1 @@
+{"uuid":"02a7708d-a404-46d9-bf41-ffc57382c35e","name":"TestScripts.Order.setup","children":["a1a95377-6411-46b4-ad13-12a7d392f6ec"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733729251833,"stop":1733729253785}],"afters":[],"start":1733729251833,"stop":1733729253785}

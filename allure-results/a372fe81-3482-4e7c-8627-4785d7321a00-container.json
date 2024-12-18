@@ -1,0 +1,1 @@
+{"uuid":"a372fe81-3482-4e7c-8627-4785d7321a00","name":"MainTestScripts.Order.setup","children":["37303aeb-335c-4aed-b9ef-e8483ededd2d"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733747621473,"stop":1733747626693}],"afters":[],"start":1733747621473,"stop":1733747626693}
